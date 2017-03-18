@@ -1,10 +1,10 @@
 body {
-     background-color: #44e3e1;
+     background-color: #61aafd;
      text-align: center;
 }
 h1 {
- font-family: 'Raleway Dots', cursive;
- color: #f900c9;
+ font-family: 'Indie Flower', cursive;
+ color: #19d8ca;
 }
 h3 {
  font-family: 'Raleway', sans-serif;
