@@ -22,3 +22,9 @@ p {
 font-family: 'Raleway', sans-serif;
 }
 
+nav li{
+
+     display: inline-block;
+
+}
+
