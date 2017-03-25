@@ -21,7 +21,9 @@ Color: #ffc4ee;
 p {
 font-family: 'Raleway', sans-serif;
 }
-
+nav{
+  background-color: #0777f6; 
+}
 nav li{
   display: inline-block;
   border: 10px solid #f003ff;
