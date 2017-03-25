@@ -33,5 +33,5 @@ button {
   color: #ffbebe;
 }
 button.Hello {
-  border-radius: 12px;
+  border-radius: 100%;
 }
