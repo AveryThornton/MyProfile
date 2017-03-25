@@ -27,4 +27,9 @@ nav li{
      display: inline-block;
 
 }
+button {
+  background-color: #8900ff;
+  border: #6afffb;
+  color: #ffbebe
+}
 
