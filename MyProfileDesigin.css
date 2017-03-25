@@ -32,4 +32,6 @@ button {
   border-color: #6afffb;
   color: #ffbebe;
 }
-
+button.Hello {
+  border-radius: 12px;
+}
