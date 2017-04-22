@@ -24,7 +24,7 @@ font-family: 'Raleway', sans-serif;
 nav{
   background-color: #569bea; 
 }
-nav li{
+.nav li{
   display: inline-block;
   color: #ff597b;
   font-family: 'handlee', cursive;
